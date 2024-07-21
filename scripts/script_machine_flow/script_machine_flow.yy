@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"script_machine_flow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"script_machine_flow",
+  "parent":{
+    "name":"adventure-ph",
+    "path":"adventure-ph.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
